@@ -113,4 +113,4 @@ if($_SESSION['role']=='0'){
       </div>
   </div>
   
-<?php include "header.php"; ?>
+<?php include "footer.php"; ?>
