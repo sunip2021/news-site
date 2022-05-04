@@ -1,7 +1,6 @@
+#Full News Website with Admin Panel Built with PHP & MySql
 
-# News Website
 
-This is a news Website built using PHP.
 
 
 
